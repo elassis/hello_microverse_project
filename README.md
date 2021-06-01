@@ -3,6 +3,9 @@
 # Built With
   * HTML
   * CSS
-
+# Objectives
+  * Understand the correct the github flow
+  * Get familiar with the code review process
+  * Understand the uses of gitignore file
 # Author
 * @elassis
